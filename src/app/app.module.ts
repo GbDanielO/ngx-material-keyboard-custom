@@ -30,6 +30,7 @@ const customLayouts: IKeyboardLayouts = {
       [
         ['Á', ''],
         ['Ã', ''],
+        ['Â', ''],
         ['É', ''],
         ['Ê', ''],
         ['Í', ''],
